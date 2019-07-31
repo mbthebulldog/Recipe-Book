@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+    color: #b13;
+}
+a {
+    color: #078;
+}
+h1, h2{
+    color: #0083ff;
+}
+h2 {
+    color white;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th {
+    border: 2px solid black;
+    padding: 3px;
+}
+td {
+    padding: 3px;
+}
+#slow {
+    letter-spacing: 4px;
+}
+#fast {
+    letter-spacing: -1px;
+}
